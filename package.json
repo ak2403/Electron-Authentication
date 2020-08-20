@@ -1,12 +1,11 @@
 {
-  "name": "electron-quick-start",
+  "name": "my-first-medium-blog",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "My First Medium Blog",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
   "keywords": [
     "Electron",
     "quick",
